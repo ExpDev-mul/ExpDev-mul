@@ -18,6 +18,10 @@ I have been programming for **4 years**, and during this time, I have become a *
 
 For more projects visit my website!
 
+## 📊 My Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ExpDev-mul&show_icons=true&theme=radical)
+
 ## 🤝 Let's Connect:
 - **Email:** orpinto1411@gmail.com
 - **LinkedIn:** [Or Pinto](https://www.linkedin.com/in/or-pinto-815028319/)
