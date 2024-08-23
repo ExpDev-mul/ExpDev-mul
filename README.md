@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-I have been programming for **4 years**, and during this time, I have become a **prolific games programmer** and an enthusiast for **full-stack web development** and **machine learning**. I'm passionate about solving real-world problems using code and always seeking to expand my knowledge and skills.
+I am a passionate programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer** contributing to almost 100M visits. I've then discovered **Full-Stack Web Development** and have since been doing it. I am very enthusiastic about **Machine Learning**.
 
 ## 🛠️ Technologies & Skills:
 - **Game Development:** Luau
