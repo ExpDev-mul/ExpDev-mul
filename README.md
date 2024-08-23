@@ -20,7 +20,8 @@ For more projects visit my website!
 
 ## 📊 My Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ExpDev-mul&show_icons=true&theme=radical)
+<img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ExpDev-mul&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+<img align="center" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=ExpDev-mul&theme=radical"/>
 
 ## 🤝 Let's Connect:
 - **Email:** orpinto1411@gmail.com
