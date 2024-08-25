@@ -12,7 +12,8 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 - **Game Development:** Luau
 - **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, Tailwind CSS, PHP
 - **Database:** MySQL, MongoDB
-- **Other Tools:** Git, Visual Studio Code, Next.js, Tailwind CSS, Playwright, jQuery
+- **Software:** C++, Java
+- **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
 
 ## 🔥 My Repositories:
 | Repository Name | Description | Technologies Used | Link |
