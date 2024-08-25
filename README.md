@@ -1,11 +1,12 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-I am a passionate programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer**. I've then discovered **Full-Stack Web Development**, about 2 years ago, and have since been doing it. I am very enthusiastic about **Machine Learning**.
+I am a passionate 16 year old programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer**. I've then discovered **Full-Stack Web Development**, about 2 years ago, and have since been doing it. I am very enthusiastic about **Machine Learning**.
 
 ## 🎉 Accomplishments:
 - Contributed to 100M+ visits and thousands of concurrent players
 - Worked with & for worldwide-top developers (Xuefei, FrootLoopsPoptart, Aexural, TM951, to name a few...)
-- Super impressive Devforum profile, [check it out!](https://devforum.roblox.com/u/complexmetatable/summary)
+- Super impressive Developer Forum profile with rare badges, [check it out!](https://devforum.roblox.com/u/complexmetatable/summary)
+- Created 540+ places on Roblox, and numerous web projects
 
 ## 🛠️ Technologies & Skills:
 - **Game Development:** Luau
@@ -16,10 +17,10 @@ I am a passionate programmer from Israel. I have been writing code for the past 
 ## 🔥 My Repositories:
 | Repository Name | Description | Technologies Used | Link |
 |-----------------|-------------|-------------------|------|
-| **Keyframe**  | A powerful high-level programming language | C++ | [Repository Link](#https://github.com/ExpDev-mul/Keyframe) |
-| **New-Portfolio**| My personal portfolio with many more projects appended inside of it. | React, HTML, JSX, CSS | [Repository Link](#https://github.com/ExpDev-mul/New-Portfolio) |
-| **Pathfinding-Visualizer**| A website that visualizes common pathfinding algorithms with many features. | HTML, CSS, JavaScript | [Repository Link](#https://github.com/ExpDev-mul/Pathfinding-Visualizer) |
-| **Bezier-Playground**| A website that visualizes bezier-curves using scalable vector graphics | HTML, CSS, JavaScript | [Repository Link](#https://github.com/ExpDev-mul/Bezier-Playground) |
+| **Keyframe**  | A powerful high-level programming language | C++ | [Link](#https://github.com/ExpDev-mul/Keyframe) |
+| **New-Portfolio**| My personal portfolio with many more projects appended inside of it. | React, HTML, JSX, CSS | [Link](#https://github.com/ExpDev-mul/New-Portfolio) |
+| **Pathfinding-Visualizer**| A website that visualizes common pathfinding algorithms with many features. | HTML, CSS, JavaScript | [Link](#https://github.com/ExpDev-mul/Pathfinding-Visualizer) |
+| **Bezier-Playground**| A website that visualizes bezier-curves using scalable vector graphics | HTML, CSS, JavaScript | [Link](#https://github.com/ExpDev-mul/Bezier-Playground) |
 
 For more projects visit my website!
 
