@@ -13,6 +13,7 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 - **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, PHP
 - **Database:** MySQL, MongoDB
 - **Software:** C++, Java
+- **Machine Learning:** Python
 - **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
 
 ## 🔥 My Repositories:
