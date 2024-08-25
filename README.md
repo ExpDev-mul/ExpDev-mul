@@ -1,6 +1,11 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-I am a passionate programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer** contributing to over 100M visits. I've then discovered **Full-Stack Web Development**, about 2 years ago, and have since been doing it. I am very enthusiastic about **Machine Learning**.
+I am a passionate programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer**. I've then discovered **Full-Stack Web Development**, about 2 years ago, and have since been doing it. I am very enthusiastic about **Machine Learning**.
+
+## 🎉 Accomplishments:
+- Contributed to 100M+ visits and thousands of concurrent players
+- Worked with & for worldwide-top developers (Xuefei, FrootLoopsPoptart, Aexural, TM951, to name a few...)
+- Super impressive Devforum profile, [check it out!](https://devforum.roblox.com/u/complexmetatable/summary)
 
 ## 🛠️ Technologies & Skills:
 - **Game Development:** Luau
