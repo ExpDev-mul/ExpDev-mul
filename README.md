@@ -10,7 +10,7 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 
 ## 🛠️ Technologies & Skills:
 - **Game Development:** Luau
-- **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, Tailwind CSS, PHP
+- **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, PHP
 - **Database:** MySQL, MongoDB
 - **Software:** C++, Java
 - **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
