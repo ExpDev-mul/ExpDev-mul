@@ -19,11 +19,11 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 ## 🔥 My Repositories:
 | Repository Name | Description | Technologies Used | Link |
 |-----------------|-------------|-------------------|------|
-| **Keyframe**  | A powerful high-level programming language | C++ | [Link](#https://github.com/ExpDev-mul/Keyframe) |
-| **Keyframe-Site**| The official website for Keyframe | Next.js, React, Tailwind CSS, JSX | [Link](#https://github.com/ExpDev-mul/New-Portfolio) |
-| **New-Portfolio**| My personal portfolio with many more projects appended inside of it. | React, HTML, JSX, CSS | [Link](#https://github.com/ExpDev-mul/New-Portfolio) |
-| **Pathfinding-Visualizer**| A website that visualizes common pathfinding algorithms with many features. | HTML, CSS, JavaScript | [Link](#https://github.com/ExpDev-mul/Pathfinding-Visualizer) |
-| **Bezier-Playground**| A website that visualizes bezier-curves using scalable vector graphics | HTML, CSS, JavaScript | [Link](#https://github.com/ExpDev-mul/Bezier-Playground) |
+| **Keyframe**  | A powerful high-level programming language | C++ | [Link](https://github.com/ExpDev-mul/Keyframe) |
+| **Keyframe-Site**| The official website for Keyframe | Next.js, React, Tailwind CSS, JSX | [Link](https://github.com/ExpDev-mul/Keyframe-Site) |
+| **New-Portfolio**| My personal portfolio with many more projects appended inside of it. | React, HTML, JSX, CSS | [Link](https://github.com/ExpDev-mul/New-Portfolio) |
+| **Pathfinding-Visualizer**| A website that visualizes common pathfinding algorithms with many features. | HTML, CSS, JavaScript | [Link](https://github.com/ExpDev-mul/Pathfinding-Visualizer) |
+| **Bezier-Playground**| A website that visualizes bezier-curves using scalable vector graphics | HTML, CSS, JavaScript | [Link](https://github.com/ExpDev-mul/Bezier-Playground) |
 
 For more projects visit my website!
 
