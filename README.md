@@ -33,5 +33,5 @@ For more projects visit my website!
 <img align="center" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=ExpDev-mul&theme=radical"/>
 
 ## 🤝 Let's Connect:
-- **Email:** orpinto1411@gmail.com
 - **LinkedIn:** [Or Pinto](https://www.linkedin.com/in/or-pinto-815028319/)
+- **Email:** orpinto1411@gmail.com
