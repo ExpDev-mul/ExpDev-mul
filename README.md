@@ -22,6 +22,7 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 | **Keyframe**  | A powerful high-level programming language | C++ | [Link](https://github.com/ExpDev-mul/Keyframe) |
 | **Keyframe-Site**| An official website for Keyframe | Next.js, React, Tailwind CSS, JSX | [Link](https://github.com/ExpDev-mul/Keyframe-Site) |
 | **New-Portfolio**| My personal portfolio website. | React, HTML, JSX, CSS | [Link](https://github.com/ExpDev-mul/New-Portfolio) |
+| **Alzheimer-CNN**| A convolutional-neural-network intended for multiclass classification of the current state of Alzheimer's disease by an MRI scan photo. | Python | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
 | **Pathfinding-Visualizer**| A website that visualizes common pathfinding algorithms with many features. | HTML, CSS, JavaScript | [Link](https://github.com/ExpDev-mul/Pathfinding-Visualizer) |
 | **Bezier-Playground**| A website that visualizes bezier-curves using scalable vector graphics | HTML, CSS, JavaScript | [Link](https://github.com/ExpDev-mul/Bezier-Playground) |
 
