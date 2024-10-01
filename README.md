@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-I am a passionate 16 year old programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer**. I've then discovered **Full-Stack Web Development**, about 2 years ago, and have since been doing it. I am very enthusiastic about **Machine Learning**. [Check out my portfolio!](https://expdev-mul.github.io/New-Portfolio/)
+I am a passionate 16 year old programmer from Israel. I have been writing code for the past 4 years, working as a **Games Programmer**. I've then discovered **Full-Stack Web Development**, about 2 years ago, and have since been doing both. I am very enthusiastic about **Machine Learning**. [Check out my portfolio!](https://expdev-mul.github.io/New-Portfolio/)
 
 ## 🎉 Accomplishments:
 - Contributed to 100M+ visits and thousands of concurrent players
