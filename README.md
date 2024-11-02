@@ -36,7 +36,3 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 
 <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ExpDev-mul&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 <img align="center" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=ExpDev-mul&theme=radical"/>
-
-## 🤝 Let's Connect:
-- **LinkedIn:** [Or Pinto](https://www.linkedin.com/in/or-pinto-815028319/)
-- **Email:** orpinto1411@gmail.com
