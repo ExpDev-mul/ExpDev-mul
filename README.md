@@ -22,8 +22,15 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 | **Alzheimer-CNN**| Python, TensorFlow, Scikit-learn | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
 | **Hand-Gestures**| Python, PyTorch, MediaPipe, Scikit-learn | [Link](https://github.com/ExpDev-mul/Hand-Gestures) |
 
+## 🔥 Game Repositories:
+| Repository Name | Technologies Used | Link |
+|-----------------|------|-------------------|
+| **Create-a-Galaxy**| Luau | [Link](https://github.com/ExpDev-mul/Create-a-Galaxy) |
+| **Viewport-First-Person-Shooter**| Luau | [Link](https://github.com/ExpDev-mul/Viewport-First-Person-Shooter) |
+| **Clash-of-Aircrafts**| Luau | [Link](https://github.com/ExpDev-mul/Clash-of-Aircrafts) |
+| **Typing-Simulator**| Luau | [Link](https://github.com/ExpDev-mul/Typing-Simulator) |
+| **Dictionary-Racer**| Luau | [Link](https://github.com/ExpDev-mul/Dictionary-Race) |
 
-For more projects visit my website!
 
 ## 📊 My Stats:
 
