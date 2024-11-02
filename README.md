@@ -13,19 +13,15 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 - **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, PHP
 - **Database:** MySQL, MongoDB
 - **Software:** C++, Java
-- **Machine Learning:** Python, TensorFlow, PyTorch, MediaPipe
+- **Machine Learning:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe
 - **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
 
-## 🔥 My Repositories:
+## 🔥 ML Repositories:
 | Repository Name | Technologies Used | Link |
 |-----------------|------|-------------------|
-| **Keyframe** | C++ | [Link](https://github.com/ExpDev-mul/Keyframe) |
-| **Keyframe-Site**| Next.js, React, Tailwind CSS, JSX | [Link](https://github.com/ExpDev-mul/Keyframe-Site) |
-| **Java-Solutions**| Java | [Link](https://github.com/ExpDev-mul/Java-Solutions) |
-| **New-Portfolio**| React, HTML, JSX, CSS | [Link](https://github.com/ExpDev-mul/New-Portfolio) |
-| **Alzheimer-CNN**| Python | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
-| **Pathfinding-Visualizer**| HTML, CSS, JavaScript | [Link](https://github.com/ExpDev-mul/Pathfinding-Visualizer) |
-| **Bezier-Playground**| HTML, CSS, JavaScript | [Link](https://github.com/ExpDev-mul/Bezier-Playground) |
+| **Alzheimer-CNN**| Python, TensorFlow, Scikit-learn | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
+| **Hand-Gestures**| Python, PyTorch, MediaPipe, Scikit-learn | [Link](https://github.com/ExpDev-mul/Hand-Gestures) |
+
 
 For more projects visit my website!
 
