@@ -8,12 +8,12 @@ I am a passionate 16 year old programmer from Israel. I have been writing code f
 - Super impressive Developer Forum profile with rare badges, [check it out!](https://devforum.roblox.com/u/complexmetatable/summary)
 - Created 540+ places on Roblox, and numerous web projects
 
-## 🛠️ Technologies & Skills:
+## 🛠️ Technologies & Skills I have experience with:
 - **Game Development:** Luau
 - **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, PHP
 - **Database:** MySQL, MongoDB
 - **Software:** C++, Java
-- **Machine Learning:** Python
+- **Machine Learning:** Python, TensorFlow, PyTorch, MediaPipe
 - **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
 
 ## 🔥 My Repositories:
