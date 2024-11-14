@@ -21,6 +21,7 @@ A passionate 16 year old programmer and developer from Israel, with 4+ years of 
 |-----------------|------|-------------------|
 | **Alzheimer-CNN**| Python, TensorFlow, Scikit-learn | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
 | **Hand-Gestures**| Python, PyTorch, MediaPipe, Scikit-learn | [Link](https://github.com/ExpDev-mul/Hand-Gestures) |
+| **N-Dimensional-Linear-Regression**| Python, Scikit-learn | [Link](https://github.com/ExpDev-mul/N-Dimensional-Linear-Regression) |
 
 ## 🎮 Game Repositories:
 | Repository Name | Technologies Used | Link |
