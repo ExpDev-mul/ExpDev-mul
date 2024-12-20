@@ -1,6 +1,7 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
 A passionate 17 year old programmer and developer from Israel, with 4+ years of proven experience.
+Game Developer, Web Developer and ML enthusiast.
 
 ## 🎉 Accomplishments:
 - Contributed to 100M+ visits and thousands of concurrent players
