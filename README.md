@@ -13,7 +13,7 @@ With a strong background in Game and Web Development, I am now focused on master
 - **Game Development:** Luau.
 - **Web Development:** MERN tech-stack.
 - **Software:** C++, C, Java.
-- **AI:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe.
+- **AI:** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe).
 
 ## 🤖 AI Repositories:
 | Repository Name | Technologies Used | Link |
