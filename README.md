@@ -12,7 +12,6 @@ With a strong background in Game and Web Development, I am now focused on master
 ## 🛠️ Experience:
 - **Game Development:** Luau.
 - **Web Development:** MERN tech-stack.
-- **Database:** MySQL, MongoDB.
 - **Software:** C++, C, Java.
 - **AI:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe.
 
