@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-A passionate 17 year old programmer and developer from Israel, with 5+ years of proven experience.
-Currently gaining solid experience in AI.
+I am a 17-year-old programmer with extensive experience in Game Development and Web Development, having built and deployed projects that reflect both creativity and technical proficiency. 
+My current focus is on mastering AI at its core, driven by a passion for understanding its fundamental principles and exploring its real-world applications. With a foundation in multiple development domains, I aim to leverage my diverse experience to create innovative AI solutions.
 
 ## 🎉 Accomplishments:
 - Contributed to 100M+ visits and thousands of concurrent players
