@@ -4,17 +4,16 @@ I'm a 17-year-old programmer with experience gained through self-learning, unive
 With a strong background in Game and Web Development, I am now focused on mastering the fundamentals of AI to create impactful solutions.
 
 ## 🎉 Accomplishments:
-- Contributed to 100M+ visits and thousands of concurrent players
-- Worked with & for worldwide-top developers (Xuefei, FrootLoopsPoptart, Aexural, TM951, to name a few...)
-- Super impressive Developer Forum profile with rare badges, [check it out!](https://devforum.roblox.com/u/complexmetatable/summary)
-- Created 540+ places on Roblox, and numerous web projects
+- Contributed to 100M+ visits and thousands of concurrent players.
+- Worked with & for worldwide-top developers (Xuefei, FrootLoopsPoptart, Aexural, TM951, to name a few...).
+- I have over 540+ places created on Roblox, and numerous other projects in the relevant fields.
+- At 13, I mastered integral and differential calculus, as well as the mathematics and practical computations of 3D vector operations, applying them to develop 3D games.
 
 ## 🛠️ Experience:
 - **Game Development:** Luau
 - **Database:** MySQL, MongoDB
 - **Software:** C++, C, Java
 - **Machine Learning:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe
-- **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
 
 ## 🤖 ML Repositories:
 | Repository Name | Technologies Used | Link |
