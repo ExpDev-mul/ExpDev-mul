@@ -10,12 +10,13 @@ With a strong background in Game and Web Development, I am now focused on master
 - At 13, I mastered integral and differential calculus, as well as the mathematics and practical computations of 3D vector operations, applying them to develop 3D games.
 
 ## 🛠️ Experience:
-- **Game Development:** Luau
-- **Database:** MySQL, MongoDB
-- **Software:** C++, C, Java
-- **Machine Learning:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe
+- **Game Development:** Luau.
+- **Web Development:** MERN tech-stack.
+- **Database:** MySQL, MongoDB.
+- **Software:** C++, C, Java.
+- **AI:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe.
 
-## 🤖 ML Repositories:
+## 🤖 AI Repositories:
 | Repository Name | Technologies Used | Link |
 |-----------------|------|-------------------|
 | **Alzheimer-CNN**| Python, TensorFlow, Scikit-learn | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
