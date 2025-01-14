@@ -7,7 +7,7 @@ With a strong background in Game and Web Development, I am now focused on master
 - Contributed to 100M+ visits and thousands of concurrent players.
 - Worked with & for worldwide-top developers (Xuefei, FrootLoopsPoptart, Aexural, TM951, to name a few...).
 - I have over 540+ places created on Roblox, and numerous other projects in the relevant fields.
-- At 13, I mastered integral and differential calculus, as well as the mathematics and practical computations of 3D vector operations, applying them to develop 3D games.
+- I mastered integral and differential calculus, as well as the mathematics and practical computations of 3D vector operations, at 13, applying them to develop 3D games.
 
 ## 🛠️ Experience:
 - **Game Development:** Luau.
