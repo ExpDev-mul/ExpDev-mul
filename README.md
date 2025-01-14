@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-I'm a 17-year-old programmer with experience gained through self-teaching, university courses, and high school education. 
+I'm a 17-year-old programmer with experience gained through self-learning, university courses, and high school education. 
 With a strong background in Game and Web Development, I am now focused on mastering the fundamentals of AI to create impactful solutions.
 
 ## 🎉 Accomplishments:
