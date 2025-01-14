@@ -1,7 +1,7 @@
 # <h1 align="center">👋 Or Pinto</h1>
 
-A passionate 17 year old programmer and developer from Israel, with 4+ years of proven experience.
-Game Developer, Web Developer and ML enthusiast.
+A passionate 17 year old programmer and developer from Israel, with 5+ years of proven experience.
+Currently gaining solid experience in AI.
 
 ## 🎉 Accomplishments:
 - Contributed to 100M+ visits and thousands of concurrent players
@@ -11,9 +11,8 @@ Game Developer, Web Developer and ML enthusiast.
 
 ## 🛠️ Experience:
 - **Game Development:** Luau
-- **Web Development:** Next.js, React, Tailwind CSS, JS & JSX, Node.js, Express, PHP
 - **Database:** MySQL, MongoDB
-- **Software:** C++, Java
+- **Software:** C++, C, Java
 - **Machine Learning:** Python, Scikit-learn, TensorFlow, PyTorch, MediaPipe
 - **Other Tools:** Git, Visual Studio Code, Playwright, jQuery
 
