@@ -9,11 +9,11 @@ With a strong background in Game and Web Development, I am now focused on master
 - I have over 540+ places created on Roblox, and numerous other projects in the relevant fields.
 - I mastered Integral and Differential Calculus, as well as applied Linear Algebra, at 13, applying them to develop 3D games.
 
-## 🛠️ Experience (+5 Years):
-- **Game Development:** Luau.
-- **Web Development:** MERN tech-stack.
-- **Software:** Java, C, C++.
-- **AI:** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe).
+## 🛠️ Experience:
+- **Game Development:** Luau. (~5 years)
+- **Web Development:** MERN tech-stack. (~2 years)
+- **Software:** Java, C, C++. (~3 years)
+- **AI:** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe). (~3  years)
 
 ## 🤖 AI Repositories:
 | Repository Name | Technologies Used | Link |
