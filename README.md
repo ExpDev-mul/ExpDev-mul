@@ -10,10 +10,10 @@ With a strong background in Game and Web Development, I am now focused on master
 - I mastered Integral and Differential Calculus, as well as applied Linear Algebra, at 14, applying them to develop 3D games.
 
 ## 🛠️ Experience:
-- **Game Development:** Luau. (~5 years)
-- **Software:** Java, C, C++. (~3 years)
-- **Web Development:** MERN tech-stack. (~2 years)
-- **AI:** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe). (~1  year)
+- **Game Development (~5 years):** Luau.
+- **Software (~3 years):** Java, C, C++.
+- **Web Development (~2 years):** MERN tech-stack.
+- **AI: (~1 year, general Python experience is for ~3 years)** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe). (~1  year)
 
 ## 🤖 AI Repositories:
 | Repository Name | Technologies Used | Link |
