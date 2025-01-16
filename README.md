@@ -13,7 +13,7 @@ With a strong background in Game and Web Development, I am now focused on master
 - **Game Development (~5 years):** Luau.
 - **Software (~3 years):** Java, C, C++.
 - **Web Development (~2 years):** MERN tech-stack.
-- **AI: (~1 year, general Python experience is for ~3 years)** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe). (~1  year)
+- **AI (~1 year, Python only is ~3 years):** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe). (~1  year)
 
 ## 🤖 AI Repositories:
 | Repository Name | Technologies Used | Link |
