@@ -6,7 +6,7 @@ With a strong background in Game and Web Development, I am now focused on master
 ## 🎉 Accomplishments:
 - Contributed to 100M+ visits and thousands of concurrent players.
 - Worked with & for worldwide-top developers (Xuefei, FrootLoopsPoptart, Aexural, TM951, to name a few...).
-- Developer Forum profile with 816 days visited, 34k posts read, 743 likes received, 75 solutions, 7d read time and many rare badges: https://devforum.roblox.com/u/complexmetatable/summary
+- Developer Forum profile with 816 days visited, 34k posts read, 743 likes receive, 7d read time and many rare badges: https://devforum.roblox.com/u/complexmetatable/summary
 - I have over 540+ places created on Roblox, and numerous other projects in the relevant fields.
 - I mastered Integral and Differential Calculus, as well as applied Linear Algebra, at 14, applying them to develop 3D games.
 
