@@ -16,23 +16,6 @@ With a strong background in Full Stack Development, I am now focused on masterin
 - **Web Development (~2 years):** MERN tech-stack.
 - **AI (~1 year, Python only is ~3 years):** Python (integrating libraries such as: sklearn, TensorFlow, PyTorch, MediaPipe). (~1  year)
 
-## 🤖 AI Repositories:
-| Repository Name | Technologies Used | Link |
-|-----------------|------|-------------------|
-| **Alzheimer-CNN**| Python, TensorFlow, Scikit-learn | [Link](https://github.com/ExpDev-mul/Alzheimer-CNN) |
-| **Hand-Gestures**| Python, PyTorch, MediaPipe, Scikit-learn | [Link](https://github.com/ExpDev-mul/Hand-Gestures) |
-| **N-Dimensional-Linear-Regression**| Python, Scikit-learn | [Link](https://github.com/ExpDev-mul/N-Dimensional-Linear-Regression) |
-
-## 🎮 Game Repositories:
-| Repository Name | Technologies Used | Link |
-|-----------------|------|-------------------|
-| **Clash-of-Aircrafts**| Luau | [Link](https://github.com/ExpDev-mul/Clash-of-Aircrafts) |
-| **Create-a-Galaxy**| Luau | [Link](https://github.com/ExpDev-mul/Create-a-Galaxy) |
-| **Dictionary-Race**| Luau | [Link](https://github.com/ExpDev-mul/Dictionary-Race) |
-| **Viewport-First-Person-Shooter**| Luau | [Link](https://github.com/ExpDev-mul/Viewport-First-Person-Shooter) |
-| **Typing-Simulator**| Luau | [Link](https://github.com/ExpDev-mul/Typing-Simulator) |
-
-
 ## 📊 My Stats:
 
 <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=ExpDev-mul&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
